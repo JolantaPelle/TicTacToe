@@ -1,4 +1,7 @@
+/**
+ * Runs the game or tests
+ * @author Jolanta Pelle
+ */
 object TicTacToe extends App {
-  // test:
-  val b = new Game("TestPlayer1", "TestPlayer2")
+  val g = new Game("TestPlayer1", "TestPlayer2")
 }
